@@ -3,8 +3,8 @@ class Db{
 
     private $db = array(
         'server' => 'localhost',
-        'username' => 'jobs_user',
-        'password' => 'QikNlB0d1NBrv1iX',
+        'username' => 'root',
+        'password' => 'nC4Dtf5ogi3T4oKo',
         'dbname' => 'jobs_db',
         'port' => 3306
     );
